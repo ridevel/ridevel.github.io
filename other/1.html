@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>open window</title>
+</head>
+<style>
+	* {
+		font-family: Verdana, sans-serif;
+	}
+	label {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		-ms-align-items: center;
+		align-items: center;
+	}
+	.wrapper {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+	}
+	.female {
+		margin-left: 20px;
+	}
+	.male-word {
+		color: blue;
+	}
+	.female-word {
+		color: #e53175;
+	}
+	input[type="button"] {
+		border: 0;
+		padding: 5px 15px;
+		font-size: 17px;
+	}
+	input[type="checkbox"] { margin-right: 10px }
+</style>
+<script>
+	function openWindow() {
+		for (i=8;i=8;i++)
+			new_window = open("https://otvet.imgsmail.ru/download/254179872_d0fb4fb3305d959edd18752d0f92f3fc_800.jpg"); // open file 
+	}
+</script>
+<body>
+	<form action="">
+		<p>Ты <span class="male-word">парень</span> или <span class="female-word">девушка</span>?</p>
+		<div class="wrapper">
+			<label class="male">
+				<input type="checkbox"> <p>Парень</p>
+			</label>
+			<label class="female">
+				<input type="checkbox"> <p>Девушка</p>
+			</label>
+		</div>
+		<input type="button" value="Завершить" onClick="openWindow()">
+	</form>
+	
+</body>
+</html>
