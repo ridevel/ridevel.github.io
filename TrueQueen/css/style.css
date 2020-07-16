@@ -41,7 +41,7 @@ body {
 	border-radius: 5px;
 	background-color: #f05a22;
 	color: #fff;
-	
+	margin: 5px;
 }
 .header-text__buttons .button:first-of-type {
 	margin-right: 40px;
