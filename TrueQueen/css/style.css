@@ -34,10 +34,10 @@ body {
 }
 .header-text__buttons>.button {
 	border: 3px solid transparent;
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: 700;
 	line-height: 27px;
-	padding: 22px 46px;
+	padding: 20px 36px;
 	border-radius: 5px;
 	background-color: #f05a22;
 	color: #fff;
