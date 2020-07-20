@@ -1,0 +1,215 @@
+$purple: #7c6db0
+$blue: #01b3e0
+* 
+	box-sizing: border-box
+body
+	font-family: 'Open Sans', sans-serif 
+	background: url('../img/bg.jpg') no-repeat top right
+	background:
+		size: cover
+		color: #fff
+	height: auto
+	.container
+		max-width: 1140px
+		border: 1px solid blue
+		margin: auto
+.header
+	padding-top: 183px
+	padding-bottom: 80px
+	&-title
+		font-size: 60px
+		color: $purple
+		word-spacing: 40px
+		padding-bottom: 33px
+	&-subtitle
+		font-size: 36px
+		color: #fff
+		background-color: $purple
+		min-width: 400px
+		display: inline-block
+		padding: 18px 5px
+		text-align: center
+		word-spacing: 20px
+		border-radius: 2px
+		margin-bottom: 94px
+	&-tagline
+		display: flex
+		margin-left: 8px
+		padding-bottom: 118px
+		&__descr
+			font-size: 21px
+			max-width: 300px
+			margin-left: 35px
+			line-height: 30px
+			font-weight: 600
+	&-buttons
+		.btn
+			font-size: 22px
+			border: 3px solid transparent
+			color: #fff
+			background-color: $blue
+			padding: 25px 68px
+		.btn-o
+			margin-left: 26px
+			padding: 25px 85px
+			background-color: transparent
+			border-color: $blue
+			color: $blue
+			font-weight: 600
+@media (max-width: 1200px)
+	body
+		height: 100vh
+	.header
+		padding-top: 50px
+		margin: auto 50px
+		&-title
+			font-size: 48px
+			padding-bottom: 30px
+		&-subtitle
+			font-size: 28px
+			padding: 15px 2px
+			min-width: 360px
+			margin-bottom: 38px
+		&-buttons
+			display: inline-block
+			.btn
+				font-size: 15px
+				padding: 18px 50px
+				display: flex
+				flex-direction: column
+			.btn-o
+				margin: 20px 0px 0px 0px
+		&-tagline
+			padding-bottom: 50px
+			display: flex
+			align-items: center
+			&__descr
+				font-size: 17px
+				max-width: 300px
+				margin-left: 35px
+				line-height: 25px
+				font-weight: 600
+@media (max-width: 1023px)
+	body
+		.header
+			&-title
+				font-size: 36px
+			&-subtitle
+				font-size: 20px
+				padding: 10px 4px
+				min-width: 250px
+			&-tagline
+				&__descr
+					font-size: 14px
+					max-width: 250px
+					margin-left: 35px
+					line-height: 20px
+			&-buttons
+			.btn
+				font-size: 13px
+				padding: 13px 30px
+				border: 2px solid transparent
+			.btn-o
+				border-color: $blue
+@media (max-width: 915px)
+	body
+		.header
+			&-tagline
+				&__img
+					display: none
+				&__descr
+					color: $blue
+					margin: 0px
+@media (max-width: 799px)
+	body
+		.header
+			&-title
+				text-align: center
+			&-buttons
+				display: flex
+				.btn-o
+					margin-top: 0px
+					margin-left: 20px
+			&-subtitle
+				margin-bottom: 118px
+			&-tagline
+				padding-bottom: 20px
+@media (max-width: 576px)
+	body
+		.header
+			margin: auto 20px
+			text-align: center
+			&-title
+				padding-bottom: 10px
+				font-size: 28px
+			&-subtitle
+				display: inline-block
+				font-size: 15px
+				padding: 6px 4px
+				min-width: 200px
+				margin-bottom: 218px
+			&-tagline
+				&__descr
+					margin: 0 auto
+					font-size: 20px
+					max-width: 350px
+					color: #fff
+			&-buttons
+				justify-content: space-around
+				.btn
+					display: inline-block 
+			&-tagline
+				padding-bottom: 60px
+@media (max-width: 450px)
+	body
+		.header
+			&-title
+				padding-bottom: 20px				
+			&-subtitle
+				margin-bottom: 150px
+			&-tagline
+				padding-bottom: 100px
+				&__descr
+					color: $blue
+					line-height: 30px
+			&-buttons
+				flex-direction: column
+				justify-content: center
+				align-items: center
+				.btn
+					font-size: 20px
+					padding: 18px 40px
+				.btn-o
+					margin: 0
+					margin-top: 20px
+@media (max-width: 376px)
+	body
+		.header
+			&-title
+				font-size: 22px				
+			&-subtitle
+				font-size: 12px
+				padding: 6px 4px
+				min-width: 160px
+			&-tagline
+				padding-bottom: 90px
+				&__descr
+					line-height: 25px
+					font-size: 18px
+			&-buttons
+				.btn
+					font-size: 16px
+					padding: 12px 30px
+				.btn-o
+					margin: 0
+					margin-top: 20px
+				
+
+
+					
+
+				
+				
+					
+				
+			
