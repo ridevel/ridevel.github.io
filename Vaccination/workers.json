@@ -1,0 +1,22 @@
+{
+    "workers": [
+        { "id": 1, 
+          "first_name": "Ivan", 
+          "last_name": "Ivanov", 
+          "patronymic": "Ivanovich", 
+          "organization": "StilSoft", 
+          "department": "Programmers", 
+          "document_type": "type_1",
+          "completion_date": "30.11.2021"
+        },
+        { "id": 1, 
+            "first_name": "Ivan", 
+            "last_name": "Petrov", 
+            "patronymic": "Ivanovich", 
+            "organization": "StilSoft", 
+            "department": "Programmers", 
+            "document_type": "type_3",
+            "completion_date": "02.01.2022"
+          }
+    ]
+}
