@@ -10,10 +10,6 @@
     display: none;
 }
 
-input {
-    z-index: 10;
-}
-
 /*Слой становится видимым*/
 .overlay:target {
     display: block;
