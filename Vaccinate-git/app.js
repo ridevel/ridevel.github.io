@@ -64,7 +64,7 @@ app.post("/edit", urlencodedParser, function (req, res) {
   const department = req.body.department;
   const time = req.body.time;
    
-  pool.query("UPDATE users_list SET name=?, age=? organization=?, department=?, time=? WHERE id=?", [name, age, organization, department, time, id], function(err, data) {
+  pool.query("UPDATE users_list SET name=?, age=?, organization=?, department=?, time=NOW() WHERE id=?", [name, age, organization, department, id], function(err, data) {
     if(err) {
       console.log(err);
     };
