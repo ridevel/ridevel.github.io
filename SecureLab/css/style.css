@@ -1572,3 +1572,10 @@ body {
     cursor: pointer;
 }
 
+.banner-section__inner {
+    flex-wrap: wrap;
+}
+
+.banner__link img{
+    max-width: 100%;
+}
