@@ -1,8 +1,8 @@
 $(function(){
     $('.banner-section__slider').slick({
         dots: true,
-        prevArrow: '<button class="banner-section__slider-btn banner-section__slider-btnprev"><img src="/images/arrow-prev.svg" alt="prev"></button>',
-        nextArrow: '<button class="banner-section__slider-btn banner-section__slider-btnnext"><img src="/images/arrow-next.svg" alt="next"></button>',
+        prevArrow: '<button class="banner-section__slider-btn banner-section__slider-btnprev"><img src="/Filling/SecureLab/images/arrow-prev.svg" alt="prev"></button>',
+        nextArrow: '<button class="banner-section__slider-btn banner-section__slider-btnnext"><img src="/Filling/SecureLab/images/arrow-next.svg" alt="next"></button>',
     });
     
     //Tabs
@@ -26,8 +26,8 @@ $(function(){
     $('.product-slider').slick({
         slidesToShow: 4,
         slidesToScroll: 1,
-        prevArrow: '<button class="product__slider-btn product__slider-btnprev"><img src="/images/arrow-dark-prev.svg" alt="prev"></button>',
-        nextArrow: '<button class="product__slider-btn product__slider-btnnext"><img src="/images/arrow-dark-next.svg" alt="next"></button>'
+        prevArrow: '<button class="product__slider-btn product__slider-btnprev"><img src="/Filling/SecureLab/images/arrow-dark-prev.svg" alt="prev"></button>',
+        nextArrow: '<button class="product__slider-btn product__slider-btnnext"><img src="/Filling/SecureLab/images/arrow-dark-next.svg" alt="next"></button>'
     });
 
     //JqueryFormStyler
