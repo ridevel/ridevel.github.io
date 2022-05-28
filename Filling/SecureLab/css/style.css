@@ -341,6 +341,7 @@ body {
 }
 
 .tabs-content {
+    width: 290px;
     display: none;
 }
 
