@@ -17,6 +17,6 @@
 
 ## Авторы
 
-* **Ринат Ирикович** - *FabricShop* - [Профиль](https://github.com/ridevel)
+* **Ridevel** - *FabricShop* - [Профиль](https://github.com/ridevel)
 
 Увидеть больше проектов можно [здесь](https://github.com/ridevel/ridevel.github.io)
