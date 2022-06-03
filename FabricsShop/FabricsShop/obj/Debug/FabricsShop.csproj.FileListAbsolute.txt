@@ -1,0 +1,99 @@
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\bin\Debug\FabricsShop.exe.config
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\bin\Debug\FabricsShop.exe
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\bin\Debug\FabricsShop.pdb
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.AssemblyReference.cache
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.SuggestedBindingRedirects.cache
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\MainWindow.g.cs
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\App.g.cs
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop_MarkupCompile.cache
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop_MarkupCompile.lref
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\MainWindow.baml
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop.g.resources
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop.Properties.Resources.resources
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.GenerateResource.cache
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.CoreCompileInputs.cache
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop.exe
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop.pdb
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop_Content.g.cs
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\bin\Debug\EntityFramework.dll
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\bin\Debug\EntityFramework.SqlServer.dll
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\bin\Debug\EntityFramework.xml
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\bin\Debug\EntityFramework.SqlServer.xml
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\bin\Debug\ru\EntityFramework.resources.dll
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.CopyComplete
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\Pages\PageMain.g.cs
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\Pages\PageMain.baml
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\Pages\PageAddProduct.g.cs
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\Pages\PageEditNew.g.cs
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\Pages\PageProduct.g.cs
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\Pages\PageAddProduct.baml
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\Pages\PageEditNew.baml
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\Pages\PageProduct.baml
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\Pages\PageProductAdmin.g.cs
+D:\Microsoft VS\Projects\FabricsShop\FabricsShop\obj\Debug\Pages\PageProductAdmin.baml
+F:\Demo\FabricsShop\FabricsShop\bin\Debug\FabricsShop.exe.config
+F:\Demo\FabricsShop\FabricsShop\bin\Debug\FabricsShop.exe
+F:\Demo\FabricsShop\FabricsShop\bin\Debug\FabricsShop.pdb
+F:\Demo\FabricsShop\FabricsShop\bin\Debug\EntityFramework.dll
+F:\Demo\FabricsShop\FabricsShop\bin\Debug\EntityFramework.SqlServer.dll
+F:\Demo\FabricsShop\FabricsShop\bin\Debug\EntityFramework.xml
+F:\Demo\FabricsShop\FabricsShop\bin\Debug\EntityFramework.SqlServer.xml
+F:\Demo\FabricsShop\FabricsShop\bin\Debug\ru\EntityFramework.resources.dll
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.AssemblyReference.cache
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.SuggestedBindingRedirects.cache
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\MainWindow.g.cs
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\Pages\PageAddProduct.g.cs
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\Pages\PageEditNew.g.cs
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\Pages\PageMain.g.cs
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\Pages\PageProduct.g.cs
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\Pages\PageProductAdmin.g.cs
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\App.g.cs
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop_Content.g.cs
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop_MarkupCompile.cache
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop_MarkupCompile.lref
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\MainWindow.baml
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\Pages\PageAddProduct.baml
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\Pages\PageEditNew.baml
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\Pages\PageMain.baml
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\Pages\PageProduct.baml
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\Pages\PageProductAdmin.baml
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop.g.resources
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop.Properties.Resources.resources
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.GenerateResource.cache
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.CoreCompileInputs.cache
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.CopyComplete
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop.exe
+F:\Demo\FabricsShop\FabricsShop\obj\Debug\FabricsShop.pdb
+F:\Demo\src\FabricsShop\FabricsShop\bin\Debug\FabricsShop.exe.config
+F:\Demo\src\FabricsShop\FabricsShop\bin\Debug\FabricsShop.exe
+F:\Demo\src\FabricsShop\FabricsShop\bin\Debug\FabricsShop.pdb
+F:\Demo\src\FabricsShop\FabricsShop\bin\Debug\EntityFramework.dll
+F:\Demo\src\FabricsShop\FabricsShop\bin\Debug\EntityFramework.SqlServer.dll
+F:\Demo\src\FabricsShop\FabricsShop\bin\Debug\EntityFramework.xml
+F:\Demo\src\FabricsShop\FabricsShop\bin\Debug\EntityFramework.SqlServer.xml
+F:\Demo\src\FabricsShop\FabricsShop\bin\Debug\ru\EntityFramework.resources.dll
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.AssemblyReference.cache
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.SuggestedBindingRedirects.cache
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\MainWindow.g.cs
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\Pages\PageAddProduct.g.cs
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\Pages\PageEditNew.g.cs
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\Pages\PageMain.g.cs
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\Pages\PageProduct.g.cs
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\Pages\PageProductAdmin.g.cs
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\App.g.cs
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop_Content.g.cs
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop_MarkupCompile.cache
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop_MarkupCompile.lref
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\MainWindow.baml
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\Pages\PageAddProduct.baml
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\Pages\PageEditNew.baml
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\Pages\PageMain.baml
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\Pages\PageProduct.baml
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\Pages\PageProductAdmin.baml
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop.g.resources
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop.Properties.Resources.resources
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.GenerateResource.cache
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.CoreCompileInputs.cache
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop.csproj.CopyComplete
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop.exe
+F:\Demo\src\FabricsShop\FabricsShop\obj\Debug\FabricsShop.pdb
