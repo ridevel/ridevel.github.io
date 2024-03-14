@@ -1,0 +1,10 @@
+RewriteEngine On
+Options +FollowSymlinks
+RewriteBase /
+
+RewriteCond   %{REQUEST_FILENAME}       !-d
+RewriteCond   %{REQUEST_FILENAME}       !-f
+RewriteRule   ^(.*) index.php?%{QUERY_STRING}
+
+RewriteCond %{REQUEST_URI} /index.php
+RewriteRule ^(.*)$ http://site.ru/ [R=301,L]
